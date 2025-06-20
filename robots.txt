@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://midnightpackage.github.io/ethical_ai_explorer/sitemap.xml
