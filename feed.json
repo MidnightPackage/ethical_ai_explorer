@@ -6,7 +6,7 @@
     "feed_url": "https://midnightpackage.github.io/ethical_ai_explorer/feed.json",
     "user_comment": "",
     "author": {
-        "name": "testguy"
+        "name": "Tim O&#x27;Connor"
     },
     "items": [
         {
@@ -14,7 +14,7 @@
             "url": "https://midnightpackage.github.io/ethical_ai_explorer/hello-world.html",
             "title": "Hello World",
             "author": {
-                "name": "testguy"
+                "name": "Tim O&#x27;Connor"
             },
             "tags": [
             ],
