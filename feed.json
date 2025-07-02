@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "test",
+    "title": "Ethical AI Explorer",
     "description": "",
     "home_page_url": "https://midnightpackage.github.io/ethical_ai_explorer",
     "feed_url": "https://midnightpackage.github.io/ethical_ai_explorer/feed.json",
@@ -10,16 +10,32 @@
     },
     "items": [
         {
+            "id": "https://midnightpackage.github.io/ethical_ai_explorer/my-second-post.html",
+            "url": "https://midnightpackage.github.io/ethical_ai_explorer/my-second-post.html",
+            "title": "My second post ...",
+            "summary": "This is my second post ever.",
+            "content_html": "<p>This is my second post ever.</p>",
+            "author": {
+                "name": "Tim O&#x27;Connor"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-02T14:18:40-04:00",
+            "date_modified": "2025-07-02T14:18:40-04:00"
+        },
+        {
             "id": "https://midnightpackage.github.io/ethical_ai_explorer/hello-world.html",
             "url": "https://midnightpackage.github.io/ethical_ai_explorer/hello-world.html",
-            "title": "Hello World",
+            "title": "My First Post",
+            "summary": "This is my first post.",
+            "content_html": "<p>This is my first post.</p>",
             "author": {
                 "name": "Tim O&#x27;Connor"
             },
             "tags": [
             ],
             "date_published": "2025-06-20T14:33:56-04:00",
-            "date_modified": "2025-06-20T14:33:56-04:00"
+            "date_modified": "2025-07-02T14:17:50-04:00"
         }
     ]
 }

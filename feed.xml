@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>test</title>
+    <title>Ethical AI Explorer</title>
     <link href="https://midnightpackage.github.io/ethical_ai_explorer/feed.xml" rel="self" />
     <link href="https://midnightpackage.github.io/ethical_ai_explorer" />
-    <updated>2025-06-20T14:33:56-04:00</updated>
+    <updated>2025-07-02T14:18:40-04:00</updated>
     <author>
         <name>Tim O&#x27;Connor</name>
     </author>
     <id>https://midnightpackage.github.io/ethical_ai_explorer</id>
 
     <entry>
-        <title>Hello World</title>
+        <title>My second post ...</title>
+        <author>
+            <name>Tim O&#x27;Connor</name>
+        </author>
+        <link href="https://midnightpackage.github.io/ethical_ai_explorer/my-second-post.html"/>
+        <id>https://midnightpackage.github.io/ethical_ai_explorer/my-second-post.html</id>
+
+        <updated>2025-07-02T14:18:40-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my second post ever.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is my second post ever.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>My First Post</title>
         <author>
             <name>Tim O&#x27;Connor</name>
         </author>
@@ -18,7 +38,15 @@
         <id>https://midnightpackage.github.io/ethical_ai_explorer/hello-world.html</id>
 
         <updated>2025-06-20T14:33:56-04:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    This is my first post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is my first post.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
